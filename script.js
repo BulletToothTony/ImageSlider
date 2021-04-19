@@ -101,4 +101,4 @@ function removeActive() {
 
 loading()
 
-// interval()
+interval()
